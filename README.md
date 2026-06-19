@@ -99,7 +99,7 @@ Evaluated Blackstone's exit from Embassy Office Parks REIT through IPO and publi
 
 ## Repository Contents
 
-text
+```text
 investment-banking-analysis/
 
 ├── README.md
@@ -110,7 +110,7 @@ investment-banking-analysis/
 ├── Project_3_PE_Fund_Setup.pdf
 ├── Project_4_PE_Exit_Strategy.pdf
 └── Private_Equity_Project_Report.pdf
-
+```
 
 ---
 
